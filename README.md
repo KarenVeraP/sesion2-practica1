@@ -2,7 +2,7 @@
 ## Creación de la página
 En Azure Potal buscamos el Marketplace.
 
-![p1p1](imagenes\p1p1.png)
+![p1p1](imagenes\p1p1copia.png)
 
 Una vez en Marketplace, buscamos WordPress.
 
@@ -85,3 +85,10 @@ Este recurso se detendrá, evitando que se continúe el cobro.
 Si queremos que el recurso vuelva a ejecutarse, debe presionarse "Iniciar", de esta manera la página volverá a habilitarse.
 
 ![p1p18](imagenes\p1p18.png)
+
+### Nota personal
+
+- git add .
+- git commit -m "README añadido"
+- git push origin main
+- git pull origin main (si algo falla)
